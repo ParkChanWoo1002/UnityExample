@@ -357,7 +357,9 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/_Scripts/NewBehaviourScript.cs"
+"Assets/Animation Clip/Scripts/AnimationManager.cs"
+"Assets/Animation Clip/Scripts/Parallax.cs"
+"Assets/Tutorial/_Scripts/NewBehaviourScript.cs"
 -langversion:9.0
 
 /deterministic
