@@ -359,6 +359,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Animation Clip/Scripts/AnimationManager.cs"
 "Assets/Animation Clip/Scripts/Parallax.cs"
+"Assets/Physics/Script/BilliardBall.cs"
+"Assets/Physics/Script/PhysicsManager.cs"
 "Assets/Tutorial/_Scripts/NewBehaviourScript.cs"
 -langversion:9.0
 
