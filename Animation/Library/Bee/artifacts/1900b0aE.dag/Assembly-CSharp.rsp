@@ -362,6 +362,8 @@
 "Assets/Animation Retargeting/Scripts/Character.cs"
 "Assets/Animation Retargeting/Scripts/PhysicsManager2.cs"
 "Assets/Animation Retargeting/Scripts/Skeleton.cs"
+"Assets/Light/Script/Movement.cs"
+"Assets/Light/Script/Patrol.cs"
 "Assets/Physics/Script/BilliardBall.cs"
 "Assets/Physics/Script/PhysicsManager.cs"
 "Assets/Tutorial/_Scripts/NewBehaviourScript.cs"
